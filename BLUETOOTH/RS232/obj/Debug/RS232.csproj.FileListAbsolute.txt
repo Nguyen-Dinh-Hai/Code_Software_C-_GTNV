@@ -1,0 +1,60 @@
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\RS232\RS232\bin\Debug\RS232.exe.config
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\RS232\RS232\bin\Debug\RS232.exe
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\RS232\RS232\bin\Debug\RS232.pdb
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\RS232\RS232\obj\Debug\RS232.csproj.AssemblyReference.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\RS232\RS232\obj\Debug\RS232.Form1.resources
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\RS232\RS232\obj\Debug\RS232.Properties.Resources.resources
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\RS232\RS232\obj\Debug\RS232.csproj.GenerateResource.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\RS232\RS232\obj\Debug\RS232.csproj.CoreCompileInputs.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\RS232\RS232\obj\Debug\RS232.exe
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\RS232\RS232\obj\Debug\RS232.pdb
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\ComMp\RS232\RS232\bin\Debug\RS232.exe.config
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\ComMp\RS232\RS232\bin\Debug\RS232.exe
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\ComMp\RS232\RS232\bin\Debug\RS232.pdb
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\ComMp\RS232\RS232\obj\Debug\RS232.csproj.AssemblyReference.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\ComMp\RS232\RS232\obj\Debug\RS232.Form1.resources
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\ComMp\RS232\RS232\obj\Debug\RS232.Properties.Resources.resources
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\ComMp\RS232\RS232\obj\Debug\RS232.csproj.GenerateResource.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\ComMp\RS232\RS232\obj\Debug\RS232.csproj.CoreCompileInputs.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\ComMp\RS232\RS232\obj\Debug\RS232.exe
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\ComMp\RS232\RS232\obj\Debug\RS232.pdb
+D:\Software\Visual Studio\RS232\RS232\bin\Debug\RS232.exe.config
+D:\Software\Visual Studio\RS232\RS232\bin\Debug\RS232.exe
+D:\Software\Visual Studio\RS232\RS232\bin\Debug\RS232.pdb
+D:\Software\Visual Studio\RS232\RS232\obj\Debug\RS232.csproj.AssemblyReference.cache
+D:\Software\Visual Studio\RS232\RS232\obj\Debug\RS232.Form1.resources
+D:\Software\Visual Studio\RS232\RS232\obj\Debug\RS232.Properties.Resources.resources
+D:\Software\Visual Studio\RS232\RS232\obj\Debug\RS232.csproj.GenerateResource.cache
+D:\Software\Visual Studio\RS232\RS232\obj\Debug\RS232.csproj.CoreCompileInputs.cache
+D:\Software\Visual Studio\RS232\RS232\obj\Debug\RS232.exe
+D:\Software\Visual Studio\RS232\RS232\obj\Debug\RS232.pdb
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUTOOTH2\RS232\bin\Debug\RS232.exe.config
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUTOOTH2\RS232\bin\Debug\RS232.exe
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUTOOTH2\RS232\bin\Debug\RS232.pdb
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUTOOTH2\RS232\obj\Debug\RS232.csproj.AssemblyReference.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUTOOTH2\RS232\obj\Debug\RS232.Form1.resources
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUTOOTH2\RS232\obj\Debug\RS232.Properties.Resources.resources
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUTOOTH2\RS232\obj\Debug\RS232.csproj.GenerateResource.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUTOOTH2\RS232\obj\Debug\RS232.csproj.CoreCompileInputs.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUTOOTH2\RS232\obj\Debug\RS232.exe
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUTOOTH2\RS232\obj\Debug\RS232.pdb
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUETOOTH\RS232\bin\Debug\RS232.exe.config
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUETOOTH\RS232\bin\Debug\RS232.exe
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUETOOTH\RS232\bin\Debug\RS232.pdb
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUETOOTH\RS232\obj\Debug\RS232.csproj.AssemblyReference.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUETOOTH\RS232\obj\Debug\RS232.Form1.resources
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUETOOTH\RS232\obj\Debug\RS232.Properties.Resources.resources
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUETOOTH\RS232\obj\Debug\RS232.csproj.GenerateResource.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUETOOTH\RS232\obj\Debug\RS232.csproj.CoreCompileInputs.cache
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUETOOTH\RS232\obj\Debug\RS232.exe
+D:\HOC_TAP\HK2_2023-2024\GIAO_TIEP_NGOAI_VI\ComMp\BLUETOOTH\RS232\obj\Debug\RS232.pdb
+D:\Software\Software Documentation\Visual Studio\BT4GTNVBLUE\BLUETOOTH\RS232\bin\Debug\RS232.exe.config
+D:\Software\Software Documentation\Visual Studio\BT4GTNVBLUE\BLUETOOTH\RS232\bin\Debug\RS232.exe
+D:\Software\Software Documentation\Visual Studio\BT4GTNVBLUE\BLUETOOTH\RS232\bin\Debug\RS232.pdb
+D:\Software\Software Documentation\Visual Studio\BT4GTNVBLUE\BLUETOOTH\RS232\obj\Debug\RS232.csproj.AssemblyReference.cache
+D:\Software\Software Documentation\Visual Studio\BT4GTNVBLUE\BLUETOOTH\RS232\obj\Debug\RS232.Form1.resources
+D:\Software\Software Documentation\Visual Studio\BT4GTNVBLUE\BLUETOOTH\RS232\obj\Debug\RS232.Properties.Resources.resources
+D:\Software\Software Documentation\Visual Studio\BT4GTNVBLUE\BLUETOOTH\RS232\obj\Debug\RS232.csproj.GenerateResource.cache
+D:\Software\Software Documentation\Visual Studio\BT4GTNVBLUE\BLUETOOTH\RS232\obj\Debug\RS232.csproj.CoreCompileInputs.cache
+D:\Software\Software Documentation\Visual Studio\BT4GTNVBLUE\BLUETOOTH\RS232\obj\Debug\RS232.exe
+D:\Software\Software Documentation\Visual Studio\BT4GTNVBLUE\BLUETOOTH\RS232\obj\Debug\RS232.pdb
